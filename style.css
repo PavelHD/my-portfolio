@@ -38,3 +38,13 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.side-bannar {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.side-padding {
+    padding-right: 90px;
+}
